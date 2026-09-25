@@ -1,0 +1,10 @@
+{
+    "name": "The TeachingRSE collaboration",
+	"image": "img/authors/teachingrse.png",
+	"bio": "",
+    "social": [
+        {
+            "github": "https://github.com/the-teachingRSE-project/"
+        }
+    ]
+}

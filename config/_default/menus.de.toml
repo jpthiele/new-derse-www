@@ -1,0 +1,60 @@
+[[main]]
+name = "Ziele"
+pageRef = "aims"
+weight = 10
+
+[[main]]
+name = "Positionen"
+pageRef = "positions"
+weight = 20
+
+[[main]]
+name = "Arbeitskreise"
+pageRef = "working_groups"
+weight = 30
+
+[[main]]
+name = "Mitmachen"
+pageRef = "join"
+weight = 40
+
+[[main]]
+name = "Termine"
+pageRef = "events"
+weight = 50
+
+[[main]]
+name = "Karte"
+pageRef = "map"
+weight = 60
+
+[[main]]
+name = "Blog"
+pageRef = "blog"
+weight = 70
+
+
+[[main]]
+name = "Verein"
+pageRef = "association"
+weight = 80
+
+
+[[main]]
+name = "Verhaltenscodex"
+pageRef = "coc"
+weight = 90
+
+
+[[main]]
+name = "Matrix Chat"
+pageRef = "matrix"
+weight = 100
+
+[[main]]
+pre = "github"
+url = "https://github.com/DE-RSE/de-rse.github.io"
+weight = 110
+
+[[footer]]
+none = "none"

@@ -1,0 +1,10 @@
+{
+    "name": "Stephan Janosch",
+	"image": "img/authors/StephanJanosch.png",
+	"bio": "RSE at MPI-CBG.de, co-founder of de-RSE.org",
+    "social": [
+        {
+            "github": "https://github.com/stephanjanosch"
+        }
+    ]
+}
